@@ -13,7 +13,7 @@
         <div class="band-header">
             <div>
                 <span class="caption-uppercase band-header__eyebrow">Paddock Requisition Form</span>
-                <h1 class="display-xl">Pinjam  {{ $equipment->name }}</h1>
+                <h1 class="display-xl">Pinjam {{ $equipment->name }}</h1>
             </div>
             <span class="badge-pill">
                 <span class="badge-pill__dot"></span>
